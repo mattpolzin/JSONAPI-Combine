@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JSONAPI",
+        "repositoryURL": "https://github.com/mattpolzin/JSONAPI",
+        "state": {
+          "branch": null,
+          "revision": "51cb140ebf27949d1185227e3eaef5a54d9a3bee",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "JSONAPI-ResourceStorage",
+        "repositoryURL": "https://github.com/mattpolzin/JSONAPI-ResourceStorage",
+        "state": {
+          "branch": null,
+          "revision": "2430e938d079e74a87c8715ab9b65b88acd6241f",
+          "version": "0.2.2"
+        }
+      },
+      {
+        "package": "Poly",
+        "repositoryURL": "https://github.com/mattpolzin/Poly",
+        "state": {
+          "branch": null,
+          "revision": "36ba3f624bffa34f5f9b9c7648eab3cfdcab4748",
+          "version": "2.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
