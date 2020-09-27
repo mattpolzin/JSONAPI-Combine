@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/mattpolzin/JSONAPI",
         "state": {
           "branch": null,
-          "revision": "51cb140ebf27949d1185227e3eaef5a54d9a3bee",
-          "version": "4.0.0"
+          "revision": "c645c73f51808b85a881e8af6f286086ee65cc35",
+          "version": "5.0.0"
         }
       },
       {
@@ -15,13 +15,13 @@
         "repositoryURL": "https://github.com/mattpolzin/JSONAPI-ResourceStorage",
         "state": {
           "branch": null,
-          "revision": "2430e938d079e74a87c8715ab9b65b88acd6241f",
-          "version": "0.2.2"
+          "revision": "fb1caece83963c9860b2838cbf071c98e9383893",
+          "version": "0.3.0"
         }
       },
       {
         "package": "Poly",
-        "repositoryURL": "https://github.com/mattpolzin/Poly",
+        "repositoryURL": "https://github.com/mattpolzin/Poly.git",
         "state": {
           "branch": null,
           "revision": "36ba3f624bffa34f5f9b9c7648eab3cfdcab4748",

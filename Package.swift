@@ -15,8 +15,8 @@ let package = Package(
             targets: ["JSONAPICombine"]),
     ],
     dependencies: [
-         .package(url: "https://github.com/mattpolzin/JSONAPI", from: "4.0.0"),
-         .package(url: "https://github.com/mattpolzin/JSONAPI-ResourceStorage", .upToNextMinor(from: "0.2.2"))
+         .package(url: "https://github.com/mattpolzin/JSONAPI", from: "5.0.0"),
+         .package(url: "https://github.com/mattpolzin/JSONAPI-ResourceStorage", .upToNextMinor(from: "0.3.0"))
     ],
     targets: [
         .target(

@@ -8,4 +8,5 @@
 public enum HttpContentType: String, Equatable {
     case plaintext = "text/plain"
     case json = "application/json"
+    case jsonAPI = "application/vnd.api+json"
 }
